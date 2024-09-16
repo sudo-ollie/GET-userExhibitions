@@ -1,0 +1,45 @@
+{
+    "Version": "2.0",
+    "RouteKey": "GET /userExhibitions",
+    "RawPath": "/userExhibitions",
+    "RawQueryString": "userID=45483",
+    "Cookies": null,
+    "Headers": {
+        "accept": "*/*",
+        "content-length": "0",
+        "host": "8kbydqr7ig.execute-api.eu-west-2.amazonaws.com",
+        "user-agent": "insomnia/10.0.0",
+        "x-amzn-trace-id": "Root=1-66e82ee2-4db4b7a14748fec44cef291f",
+        "x-forwarded-for": "217.155.104.242",
+        "x-forwarded-port": "443",
+        "x-forwarded-proto": "https"
+    },
+    "QueryStringParameters": {
+        "userID": "45483"
+    },
+    "RequestContext": {
+        "AccountId": "058264105930",
+        "ApiId": "8kbydqr7ig",
+        "Authorizer": null,
+        "DomainName": "8kbydqr7ig.execute-api.eu-west-2.amazonaws.com",
+        "DomainPrefix": "8kbydqr7ig",
+        "Http": {
+            "Method": "GET",
+            "Path": "/userExhibitions",
+            "Protocol": "HTTP/1.1",
+            "SourceIp": "217.155.104.242",
+            "UserAgent": "insomnia/10.0.0"
+        },
+        "RequestId": "eMxDXhgDLPEEMxg=",
+        "RouteId": null,
+        "RouteKey": "GET /userExhibitions",
+        "Stage": "$default",
+        "Time": "16/Sep/2024:13:13:06 +0000",
+        "TimeEpoch": 1726492386046,
+        "Authentication": null
+    },
+    "Body": null,
+    "PathParameters": null,
+    "IsBase64Encoded": false,
+    "StageVariables": null
+}
